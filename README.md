@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Backend - Gestión de Roles y Usuarios
 
@@ -33,3 +34,6 @@ Este es el backend para una aplicación de gestión de roles y usuarios, constru
    - `POST /api/usuarios` - Crear un nuevo usuario
    - `GET /api/usuarios` - Listar usuarios
 
+=======
+# backend-gestion-roles
+>>>>>>> 5e615ddff1116e60673d35d4de1e33fc4c87b942
